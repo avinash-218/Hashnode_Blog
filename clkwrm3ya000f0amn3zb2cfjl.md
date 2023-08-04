@@ -3,6 +3,7 @@ title: "Unifying Deep Learning Models: Deploying TensorFlow and PyTorch Together
 datePublished: Fri Aug 04 2023 15:53:11 GMT+0000 (Coordinated Universal Time)
 cuid: clkwrm3ya000f0amn3zb2cfjl
 slug: unifying-deep-learning-models-deploying-tensorflow-and-pytorch-together-with-onnx-and-onnx-runtime
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691164551322/5beaaeda-befb-44e8-b809-1405cc7818d8.png
 tags: machine-learning, flask, deep-learning, model-deployment, onnx
 
 ---
