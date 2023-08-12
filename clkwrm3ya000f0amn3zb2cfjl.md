@@ -230,7 +230,7 @@ To deploy our PyTorch model alongside the previously converted TensorFlow model,
 
 ```python
 import torch
-from unet_model import UNET
+from model import Model
 
 TORCH_MODEL_PATH = "Model.pth"
 ONNX_MODEL_PATH = "Model.onnx"
